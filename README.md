@@ -19,19 +19,23 @@ Bu ekrana yalnızca patron ünvanına sahip hesaplar erişebilir ve menüden yap
 ### Sipariş Ekranı
 
 Garson ve patron ünvanına sahip hesapların erişebileceği ekranda veritabanından çekilen masa, ürün kategorisi ve ürün bilgileri listelenir seçim yapıldıktan sonra sipariş ver butonuna basıldığında her ürün listbox ögesinde listelenir ve masa siparişi oluşturulur siparişi oluşturan garson bilgileri sol tarafta görüntülenir.
+
 ![siparis](https://github.com/regaipaydogdu/CafeOtomasyon/blob/master/screenshots/siparis.PNG) <br>
 
 ### Ürünler Ekranı
 
  Patron ünvanına sahip hesapların erişebileceği ekranda veritabanından çekilen ürün bilgileri table ögesinde görüntülenir table ögesinde seçilen ürün ile silme, güncelleme işlemleri veya yeni bir ürün eklenip veritabanına kaydedilebilir.
+ 
 ![urunler](https://github.com/regaipaydogdu/CafeOtomasyon/blob/master/screenshots/urunler.PNG) <br>
 
 ### Ödeme Ekranı
 
 Kasiyer ve Patron ünvanına sahip hesapların erişebileceği ekranda masalara ait siparişler ve toplam ücret görüntülenir ödeme tipi seçilerek ödeme işlemi gerçekleştirilir.Tüm ödeme geçmişi siparişi veren garson, ödemeyi gerçekleştiren kasiyer v.b bilgiler veritabanında depolanır.
+
 ![odeme](https://github.com/regaipaydogdu/CafeOtomasyon/blob/master/screenshots/odeme.PNG) <br>
 
 ### Ayarlar Ekranı
 
 Patron ünvanına sahip hesapların erişebileceği ekranda sisteme kasiyer, patron, garson ünvanına sahip hesaplar eklenebilir.
+
 ![ayarlar](https://github.com/regaipaydogdu/CafeOtomasyon/blob/master/screenshots/ayarlar.PNG) <br>
